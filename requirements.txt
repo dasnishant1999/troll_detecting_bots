@@ -19,7 +19,7 @@ imageio==2.1.2
 InstagramAPI==1.0.2
 moviepy==0.2.3.2
 multidict==4.7.5
-numpy==1.18.1
+numpy==1.22.0
 oauthlib==3.1.0
 pandas==1.0.1
 Pillow==7.0.0
